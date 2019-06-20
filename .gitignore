@@ -7,6 +7,7 @@ backups
 .DS_Store
 .backup
 .metadata
+.project
 freeplane/lib/jortho.jar
 freeplane_framework/windows-icons/Objects
 freeplane_framework/windows-icons/*.layout
